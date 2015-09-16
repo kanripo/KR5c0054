@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:17:27.456934
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上老君混元三部符
-#+PROPERTY: DZID  DZ0673
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—644 三卷 洞神部神符類
+#+DATE: 2015-08-29 00:17:28
+#+PROPERTY:  LASTPB <PB KR5c0054_SJB_003-110665b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶
+
